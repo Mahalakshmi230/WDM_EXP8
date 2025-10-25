@@ -1,6 +1,7 @@
 ### EX8 Web Scraping On E-commerce platform using BeautifulSoup
-### DATE: 17.10.2025
-### AIM: To perform Web Scraping on Amazon using (beautifulsoup) Python.### Description: 
+### AIM: 
+To perform Web Scraping on Amazon using (beautifulsoup) Python.
+### Description: 
 <div align = "justify">
 Web scraping is the process of extracting data from various websites and parsing it. In other words, it’s a technique 
 to extract unstructured data and store that data either in a local file or in a database. 
@@ -24,7 +25,7 @@ One can search, navigate, and modify data using a parser. It’s versatile and s
 8) Visualize Product Data using a Bar Chart
 
 ### Program:
-```
+```PYTHON
 import requests
 from bs4 import BeautifulSoup
 import matplotlib.pyplot as plt
@@ -106,9 +107,8 @@ visualize_product_data(products)
 ```
 
 ### Output:
-<img width="907" height="638" alt="Screenshot 2025-10-17 111503" src="https://github.com/user-attachments/assets/82509751-01c6-4352-877c-a47e09a34af8" />
-
-<img width="1097" height="670" alt="Screenshot 2025-10-17 111520" src="https://github.com/user-attachments/assets/b9a0501f-b95a-436d-a140-aade65e07b58" />
+<img width="1003" height="653" alt="Screenshot 2025-10-25 091655" src="https://github.com/user-attachments/assets/599a9dd2-bd30-441c-a8ec-adf4d86344ae" />
+<img width="1069" height="685" alt="Screenshot 2025-10-25 091715" src="https://github.com/user-attachments/assets/8a0dd5bc-c559-48e2-93f6-92340745b90a" />
 
 ### Result:
-Thus, Web Scraping On e-commerce platform using BeautifulSoup is executed successfully.
+Thus, We had Successfully implemented the Web Scraping on Amazon using (beautifulsoup) Python.
